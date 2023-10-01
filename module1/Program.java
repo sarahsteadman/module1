@@ -30,7 +30,6 @@ public class Program {
         {
             System.out.println("Please enter either 1, 2, or 3.");
             choice = scanner.nextLine();
-            choice = "1";
         }
 
         // The user's entry sets the number of hints below
